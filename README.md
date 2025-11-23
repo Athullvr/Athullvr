@@ -23,4 +23,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 
+<span style="font-size: 28px;">Tech Stack</span>
 
