@@ -11,7 +11,7 @@ Hello,I'm Athul VR
 
 🧠 Interested in data-driven solutions and practical projects  
 
-🌐 SOCIALS:
+## 🌐 **SOCIALS :**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athul-vr-bb67a8379)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/athull.vr)
