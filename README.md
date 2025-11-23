@@ -1,11 +1,16 @@
 
 ## ✨ **ABOUT ME :**
 
-🖥️ Working with technologies like Python, Mongodb,Pandas,Matplotlib 
+ 💻 Currently building a strong foundation in Data Science and Machine Learning
 
-🔥 Exploring Seaborn,EDA,scikit-Learn
+📚 Skilled in Python, SQL, MongoDB, Pandas, NumPy, and data visualization tools
 
-🧠 Interested in data-driven solutions and practical projects  
+🔍 Exploring EDA, Seaborn, and Scikit-Learn to deepen my analytical and modeling skills
+
+🚀 Interested in turning raw data into meaningful insights through practical projects
+
+🌱 Continuously learning and improving 
+
 
 ## 🌐 **SOCIALS :**
 
