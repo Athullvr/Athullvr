@@ -27,3 +27,4 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C94?style=flat&logo=plotly&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
