@@ -1,4 +1,9 @@
-œ✨ ABOUT ME :
+
+Hello,I'm Athul VR
+
+🎓B.tech CSE Student|🌐 Data Science Enthusiast|🖥️ Machine Learning Explorer 
+
+✨ ABOUT ME :
 
 🖥️ Working with technologies like Python, Mongodb,Pandas,Matplotlib 
 
@@ -18,7 +23,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
