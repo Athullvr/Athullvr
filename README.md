@@ -1,8 +1,4 @@
 
-## **Hello,I'm Athul VR**
-
-🎓B.tech CSE Student|🌐 Data Science Enthusiast|🖥️ Machine Learning Explorer 
-
 ## ✨ **ABOUT ME :**
 
 🖥️ Working with technologies like Python, Mongodb,Pandas,Matplotlib 
