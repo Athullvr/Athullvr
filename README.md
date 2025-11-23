@@ -27,4 +27,5 @@ Hello,I'm Athul VR
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=plotly&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
