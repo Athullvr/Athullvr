@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=athullvr&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athullvr&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athullvr&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=athullvr&theme=tokyonight&no-frame=true&row=1)
