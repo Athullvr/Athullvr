@@ -31,6 +31,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C94?style=flat&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0696D7?style=flat&logo=seaborn&logoColor=white)
+![Seaborn](https://raw.githubusercontent.com/yourusername/yourrepo/main/seaborn.png)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=athullvr&show_icons=true&theme=tokyonight)
