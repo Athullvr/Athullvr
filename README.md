@@ -30,7 +30,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C94?style=flat&logo=plotly&logoColor=white)
-![Seaborn](/mnt/data/A_digital_vector_graphic_features_the_seaborn_logo.png)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EABD1?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=athullvr&show_icons=true&theme=tokyonight)
