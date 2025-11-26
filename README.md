@@ -32,6 +32,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C94?style=flat&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0696D7?style=flat&logo=seaborn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=athullvr&show_icons=true&theme=tokyonight)
