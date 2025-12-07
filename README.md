@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athul-vr-bb67a8379)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/athull.vr)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:athuulvr@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/athullvr)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/athullvr)
 
 ## 🖥️ **TECH STACK :**
 
