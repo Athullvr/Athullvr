@@ -1,65 +1,130 @@
 <div align="center">
 
-# Hi there, I'm Athul VR 👋
+# 👋 Hi, I'm Athul VR | AI & Full-Stack Developer
 
-> *Data Science & AI enthusiast from Kerala, India — exploring deep learning, geospatial AI, and building toward intelligent systems.*
+> *Data Science, AI/ML & Web Development enthusiast from Kerala, India — Building intelligent systems with transformers, geospatial AI, and modern full-stack technologies.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athul-vr-bb67a8379)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/athullvr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/athull.vr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:athuulvr@gmail.com)
+**[🔗 LinkedIn](https://www.linkedin.com/in/athul-vr-bb67a8379) • [📊 Kaggle](https://www.kaggle.com/athullvr) • [📸 Instagram](https://www.instagram.com/athull.vr) • [✉️ Email](mailto:athuulvr@gmail.com) • [🌐 Portfolio](https://github.com/athullvr)**
 
 </div>
 
 ---
 
-## 🙋 About Me
+## 🚀 About Me
 
-- 🧠 Skilled in **Machine Learning & Deep Learning** — from classical models to neural networks
-- 🛰️ Currently exploring **Geospatial AI** — satellite imagery, raster data, and spatial analysis
-- 🤖 Diving into **advanced DL** — Transformers, attention mechanisms, and computer vision
-- 🔭 Planning ahead: **RAG pipelines, LangChain, Reinforcement Learning**, and LLM applications
-- 🐍 Core stack: **Python, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Keras**
-- 🌍 Geospatial tools: **GeoPandas, Rasterio, Shapely**
-- 📍 Based in **Kerala, India**
+I'm a passionate developer at the intersection of **AI, Machine Learning, and Full-Stack Web Development**. With expertise in deep learning, geospatial analysis, and modern web frameworks, I build end-to-end intelligent systems.
+
+- 🧠 **Machine Learning & Deep Learning** — TensorFlow, PyTorch, Transformers, attention mechanisms, computer vision
+- 🤖 **Advanced AI Models** — Fine-tuning transformers (BERT, GPT variants), embeddings, LLMs, RAG pipelines
+- 🛰️ **Geospatial AI** — Satellite imagery, raster/vector data, spatial analysis with geospatial ML
+- 💻 **Full-Stack Development** — Next.js, Node.js, FastAPI, React, modern web architectures
+- 🔗 **LLM & NLP** — LangChain, vector databases, semantic search, prompt engineering
+- 🌍 **Deployment & DevOps** — Docker, cloud platforms, API development, production ML systems
+- 📍 **Location** — Kerala, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**
+### 🐍 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Machine Learning & Deep Learning**
+### 🤖 **AI/ML & Deep Learning**
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=python&logoColor=black)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-**Data & Visualization**
+### 📊 **Data & Visualization**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005C94?style=flat&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0696D7?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0696D7?style=for-the-badge&logo=python&logoColor=white)
 
-**Geospatial**
+### 🌍 **Geospatial & Spatial Analysis**
 
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=python&logoColor=white)
-![Rasterio](https://img.shields.io/badge/Rasterio-2C8EBB?style=flat&logo=python&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-2C8EBB?style=for-the-badge&logo=python&logoColor=white)
+![Shapely](https://img.shields.io/badge/Shapely-2E9B57?style=for-the-badge&logo=python&logoColor=white)
 
-**Tools & Platforms**
+### 🚀 **Web Development & Backend**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 🔗 **NLP & LLM Tools**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🛠️ **Tools & Platforms**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 💡 Core Expertise Areas
+
+### 🔬 Machine Learning & AI
+- **Transformers & NLP** — Fine-tuning BERT, GPT models, embeddings, sentiment analysis
+- **Computer Vision** — CNNs, object detection, image classification, geospatial image processing
+- **Deep Learning Architectures** — RNNs, LSTMs, Attention mechanisms, Vision Transformers
+- **Classical ML** — Regression, classification, clustering, ensemble methods
+
+### 🛰️ Geospatial Intelligence
+- Satellite & aerial imagery analysis with deep learning
+- Raster data processing & spatial analysis
+- Land use/land cover (LULC) classification
+- Geospatial ML pipelines for remote sensing
+
+### 🌐 Full-Stack Web Development
+- **Modern Frontend** — React, Next.js with TypeScript
+- **Backend APIs** — FastAPI (async Python), Node.js/Express
+- **Database Design** — SQL optimization, query performance
+- **Deployment** — Docker containerization, cloud-ready applications
+
+### 📚 Advanced Topics
+- Retrieval-Augmented Generation (RAG) pipelines
+- Vector embeddings & semantic search
+- LangChain integration for LLM applications
+- Model optimization & inference acceleration
+
+---
+
+## 🎯 Key Projects Highlights
+
+I've built diverse projects spanning:
+- **AI/ML Models** — Image classification, NLP tasks, geospatial analysis
+- **Web Applications** — Full-stack apps with modern frameworks
+- **Data Pipelines** — End-to-end ETL and analysis workflows
+- **Research & Experimentation** — Cutting-edge deep learning implementations
+
+*Check out my [GitHub repositories](https://github.com/athullvr) for detailed project code and implementations.*
+
+---
+
+## 🏆 Learning & Growth
+
+- 🎓 Continuously learning **advanced transformers** & **foundation models**
+- 🚀 Exploring **production ML systems** and **MLOps** practices
+- 🔍 Deep diving into **geospatial machine learning** applications
+- 🤖 Experimenting with **RAG systems** and **LLM fine-tuning**
+- 💻 Building **scalable full-stack applications** with modern architectures
 
 ---
 
@@ -105,6 +170,22 @@
 
 ---
 
+## 📫 Let's Connect
+
+I'm always interested in:
+- **AI/ML Projects** — Especially transformers, geospatial AI, and LLMs
+- **Full-Stack Development** — Web apps with modern tech stacks
+- **Collaboration** — Open-source contributions and knowledge sharing
+- **Innovation** — Exploring new possibilities at the intersection of AI & web technologies
+
+**Reach out via [Email](mailto:athuulvr@gmail.com) or [LinkedIn](https://www.linkedin.com/in/athul-vr-bb67a8379) — I'd love to chat!**
+
+---
+
 <div align="center">
-<sub>⭐ If you find my projects useful, consider giving them a star!</sub>
+
+**⭐ If you find my work interesting, please give my repositories a star! It means a lot.**
+
+*Last updated: August 2026*
+
 </div>
