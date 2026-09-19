@@ -108,11 +108,10 @@ I'm a passionate developer at the intersection of **AI, Machine Learning, and Fu
 
 ## 🎯 Key Projects Highlights
 
-I've built diverse projects spanning:
-- **AI/ML Models** — Image classification, NLP tasks, geospatial analysis
-- **Web Applications** — Full-stack apps with modern frameworks
-- **Data Pipelines** — End-to-end ETL and analysis workflows
-- **Research & Experimentation** — Cutting-edge deep learning implementations
+- **[Citadel](https://github.com/Athullvr/Citadel)** — Predicts the LLM-token cost of an AI agent task before it runs, returning a low/expected/high range with a plain-English explanation.
+- **[TelemetryIQ](https://github.com/Athullvr/TelemetryIQ)** — AI-powered observability platform detecting system anomalies and predicting incident root causes from telemetry data via a hybrid ML pipeline.
+- **[CascadeNet](https://github.com/Athullvr/CascadeNet)** — A 3-model AI/ML pipeline simulating cascading flood failures across Wayanad's power, water, and healthcare infrastructure to identify the highest-impact interventions.
+- **[DRIFT-MINER](https://github.com/Athullvr/DRIFT-MINER)** — Customer-retention intelligence platform that flags weakening customer behavior, explains the earliest signal, and gives retention teams a clear workflow.
 
 *Check out my [GitHub repositories](https://github.com/athullvr) for detailed project code and implementations.*
 
@@ -186,6 +185,6 @@ I'm always interested in:
 
 **⭐ If you find my work interesting, please give my repositories a star! It means a lot.**
 
-*Last updated: August 2026*
+*Last updated: September 2026*
 
 </div>
