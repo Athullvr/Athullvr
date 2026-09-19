@@ -4,7 +4,7 @@
 
 > *Data Science, AI/ML & Web Development enthusiast from Kerala, India — Building intelligent systems with transformers, geospatial AI, and modern full-stack technologies.*
 
-**[🔗 LinkedIn](https://www.linkedin.com/in/athul-vr-bb67a8379) • [📊 Kaggle](https://www.kaggle.com/athullvr) • [📸 Instagram](https://www.instagram.com/athull.vr) • [✉️ Email](mailto:athuulvr@gmail.com) • [🌐 Portfolio](https://github.com/athullvr)**
+**[🔗 LinkedIn](https://www.linkedin.com/in/athul-vr-bb67a8379) • [📊 Kaggle](https://www.kaggle.com/athullvr) • [📸 Instagram](https://www.instagram.com/athull.vr) • [✉️ Email](mailto:athuulvr@gmail.com) • [🌐 Portfolio](https://t.co/gy7wtfIFvE)**
 
 </div>
 
